@@ -1,0 +1,430 @@
+﻿========================================
+修复时间：2026-04-23 11:45:27
+========================================
+
+【文件】Assets\CashOut\ZT\CashOutManager.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MonoSingleton< → TireStability<
+  ├─ 位置：第16行（泛型形式）
+  ├─ 替换前：MonoSingleton<
+  └─ 替换后：TireStability<
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MonoSingleton → TireStability
+  ├─ 位置：第16行（普通形式）
+  ├─ 替换前：MonoSingleton
+  └─ 替换后：TireStability
+
+【文件】Assets\CashOut\ZT\CashOutPanel.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：BaseUIForms → ShedUIHobby
+  ├─ 位置：第11行（普通形式）
+  ├─ 替换前：BaseUIForms
+  └─ 替换后：ShedUIHobby
+
+【文件】Assets\CashOut\ZJT_Manager.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MonoSingleton< → TireStability<
+  ├─ 位置：第8行（泛型形式）
+  ├─ 替换前：MonoSingleton<
+  └─ 替换后：TireStability<
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MonoSingleton → TireStability
+  ├─ 位置：第8行（普通形式）
+  ├─ 替换前：MonoSingleton
+  └─ 替换后：TireStability
+
+========================================
+本次修复统计：
+- 修复文件数：3
+- 修复名称数：3
+- 总替换次数：5
+- 正向替换：5次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-23 11:45:40
+========================================
+
+【文件】Assets\CashOut\ZT\CashOutManager.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：SaveDataManager → SpotGushAwesome
+  ├─ 位置：第43行、第44行、第141行、第195行、第206行...等23处（普通形式）
+  ├─ 替换前：SaveDataManager
+  └─ 替换后：SpotGushAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：PostEventScript → QuitCacheCandle
+  ├─ 位置：第46行、第159行、第409行、第548行、第1105行（普通形式）
+  ├─ 替换前：PostEventScript
+  └─ 替换后：QuitCacheCandle
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NetInfoMgr → TedSlumElk
+  ├─ 位置：第56行、第103行、第129行、第130行、第132行（普通形式）
+  ├─ 替换前：NetInfoMgr
+  └─ 替换后：TedSlumElk
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NotificationManager → ReproductiveAwesome
+  ├─ 位置：第57行、第58行、第60行（普通形式）
+  ├─ 替换前：NotificationManager
+  └─ 替换后：ReproductiveAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CConfig → CMillet
+  ├─ 位置：第276行、第310行（普通形式）
+  ├─ 替换前：CConfig
+  └─ 替换后：CMillet
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NetWorkManager → TedYearAwesome
+  ├─ 位置：第298行、第379行、第448行、第502行、第554行...等12处（普通形式）
+  ├─ 替换前：NetWorkManager
+  └─ 替换后：TedYearAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ToastManager → BrinyAwesome
+  ├─ 位置：第350行、第367行、第483行、第530行（普通形式）
+  ├─ 替换前：ToastManager
+  └─ 替换后：BrinyAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：AdjustInitManager → ArouseCapeAwesome
+  ├─ 位置：第660行（普通形式）
+  ├─ 替换前：AdjustInitManager
+  └─ 替换后：ArouseCapeAwesome
+
+【文件】Assets\CashOut\ZT\CashOutPanel.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NetInfoMgr → TedSlumElk
+  ├─ 位置：第93行、第94行、第97行、第100行、第137行...等7处（普通形式）
+  ├─ 替换前：NetInfoMgr
+  └─ 替换后：TedSlumElk
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：SaveDataManager → SpotGushAwesome
+  ├─ 位置：第144行、第229行、第249行（普通形式）
+  ├─ 替换前：SaveDataManager
+  └─ 替换后：SpotGushAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：GameManager → ClanAwesome
+  ├─ 位置：第153行、第162行（普通形式）
+  ├─ 替换前：GameManager
+  └─ 替换后：ClanAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：HomePanel → MoteWould
+  ├─ 位置：第166行、第167行（普通形式）
+  ├─ 替换前：HomePanel
+  └─ 替换后：MoteWould
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ToastManager → BrinyAwesome
+  ├─ 位置：第219行、第224行、第246行、第524行（普通形式）
+  ├─ 替换前：ToastManager
+  └─ 替换后：BrinyAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：PostEventScript → QuitCacheCandle
+  ├─ 位置：第587行（普通形式）
+  ├─ 替换前：PostEventScript
+  └─ 替换后：QuitCacheCandle
+
+【文件】Assets\CashOut\ZT\CashOutEnter.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UIManager → UIAwesome
+  ├─ 位置：第28行（普通形式）
+  ├─ 替换前：UIManager
+  └─ 替换后：UIAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NetInfoMgr → TedSlumElk
+  ├─ 位置：第46行（普通形式）
+  ├─ 替换前：NetInfoMgr
+  └─ 替换后：TedSlumElk
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MusicMgr → ChileElk
+  ├─ 位置：第74行（普通形式）
+  ├─ 替换前：MusicMgr
+  └─ 替换后：ChileElk
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MusicType → ChileSick
+  ├─ 位置：第74行（普通形式）
+  ├─ 替换前：MusicType
+  └─ 替换后：ChileSick
+
+【文件】Assets\Script\Util\GameUtil.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NetInfoMgr → TedSlumElk
+  ├─ 位置：第20行、第34行、第39行、第53行（普通形式）
+  ├─ 替换前：NetInfoMgr
+  └─ 替换后：TedSlumElk
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：SaveDataManager → SpotGushAwesome
+  ├─ 位置：第34行、第39行（普通形式）
+  ├─ 替换前：SaveDataManager
+  └─ 替换后：SpotGushAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CConfig → CMillet
+  ├─ 位置：第34行、第39行（普通形式）
+  ├─ 替换前：CConfig
+  └─ 替换后：CMillet
+
+========================================
+本次修复统计：
+- 修复文件数：5
+- 修复名称数：13
+- 总替换次数：90
+- 正向替换：90次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-23 11:45:47
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\AudioVolumeEditWindow.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：AudioModel → InnerKnife
+  ├─ 位置：第12行、第13行、第30行、第31行、第37行...等10处（普通形式）
+  ├─ 替换前：AudioModel
+  └─ 替换后：InnerKnife
+
+========================================
+本次修复统计：
+- 修复文件数：6
+- 修复名称数：1
+- 总替换次数：15
+- 正向替换：15次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-23 11:45:52
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\AudioVolumeEditWindow.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MusicType → ChileSick
+  ├─ 位置：第44行、第63行（普通形式）
+  ├─ 替换前：MusicType
+  └─ 替换后：ChileSick
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\SuperBuildWindow.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：GetSystemData → AgeBureauGush
+  ├─ 位置：第101行、第110行（普通形式）
+  ├─ 替换前：GetSystemData
+  └─ 替换后：AgeBureauGush
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\BuildEditScript.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NetInfoMgr → TedSlumElk
+  ├─ 位置：第47行、第72行、第216行、第217行、第218行...等8处（普通形式）
+  ├─ 替换前：NetInfoMgr
+  └─ 替换后：TedSlumElk
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ADManager → ADAwesome
+  ├─ 位置：第57行、第62行、第67行、第160行、第161行...等6处（普通形式）
+  ├─ 替换前：ADManager
+  └─ 替换后：ADAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：AdjustInitManager → ArouseCapeAwesome
+  ├─ 位置：第176行、第180行、第185行、第188行（普通形式）
+  ├─ 替换前：AdjustInitManager
+  └─ 替换后：ArouseCapeAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：RateUsManager → TrapNoAwesome
+  ├─ 位置：第190行、第192行、第196行、第199行（普通形式）
+  ├─ 替换前：RateUsManager
+  └─ 替换后：TrapNoAwesome
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CConfig → CMillet
+  ├─ 位置：第218行、第219行、第220行、第221行、第225行...等7处（普通形式）
+  ├─ 替换前：CConfig
+  └─ 替换后：CMillet
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：NetWorkManager → TedYearAwesome
+  ├─ 位置：第232行、第246行、第248行、第256行、第258行（普通形式）
+  ├─ 替换前：NetWorkManager
+  └─ 替换后：TedYearAwesome
+
+========================================
+本次修复统计：
+- 修复文件数：8
+- 修复名称数：8
+- 总替换次数：38
+- 正向替换：38次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-23 11:45:57
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\BuildEditScript.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：SaveDataManager → SpotGushAwesome
+  ├─ 位置：第237行（普通形式）
+  ├─ 替换前：SaveDataManager
+  └─ 替换后：SpotGushAwesome
+
+========================================
+本次修复统计：
+- 修复文件数：8
+- 修复名称数：1
+- 总替换次数：1
+- 正向替换：1次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-27 14:04:29
+========================================
+
+【文件】Assets\Script\UI\HomePanel\UIEaseFootPrepayDepress.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ADManager → ADAwesome
+  ├─ 位置：第163行（普通形式）
+  ├─ 替换前：ADManager
+  └─ 替换后：ADAwesome
+
+========================================
+本次修复统计：
+- 修复文件数：1
+- 修复名称数：1
+- 总替换次数：2
+- 正向替换：2次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-27 14:04:39
+========================================
+
+【文件】Assets\Script\UI\HomePanel\UIEaseFootPrepayDepress.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Instance → Fletcher
+  ├─ 位置：第158行、第163行（普通形式）
+  ├─ 替换前：Instance
+  └─ 替换后：Fletcher
+
+========================================
+本次修复统计：
+- 修复文件数：1
+- 修复名称数：1
+- 总替换次数：4
+- 正向替换：4次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-28 16:25:12
+========================================
+
+【文件】Assets\Script\CommonTool\Manager\ArouseCapeAwesome.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：sv_ADJustInitType → If_ADNearCapeSick
+  ├─ 位置：第15行、第34行、第147行（普通形式）
+  ├─ 替换前：sv_ADJustInitType
+  └─ 替换后：If_ADNearCapeSick
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：AdjustInit → ArouseCape
+  ├─ 位置：第35行（普通形式）
+  ├─ 替换前：AdjustInit
+  └─ 替换后：ArouseCape
+
+【文件】Assets\Script\CommonTool\NetInfo\TedSlumElk.cs
+  ├─ 替换类型：反向替换（值→键）
+  ├─ 替换：Channel → Lifeway
+  ├─ 位置：第34行、第37行、第41行（普通形式）
+  ├─ 替换前：Channel
+  └─ 替换后：Lifeway
+
+【文件】Assets\Script\CommonTool\NetInfo\QuitCacheCandle.cs
+  ├─ 替换类型：反向替换（值→键）
+  ├─ 替换：Channel → Lifeway
+  ├─ 位置：第13行、第17行（普通形式）
+  ├─ 替换前：Channel
+  └─ 替换后：Lifeway
+
+【文件】Assets\Script\CommonTool\Manager\ADAwesome.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：GetInstance → AgeFletcher
+  ├─ 位置：第191行、第213行、第305行、第361行（普通形式）
+  ├─ 替换前：GetInstance
+  └─ 替换后：AgeFletcher
+
+========================================
+本次修复统计：
+- 修复文件数：6
+- 修复名称数：4
+- 总替换次数：17
+- 正向替换：12次
+- 反向替换：5次
+========================================
+
+
+========================================
+修复时间：2026-04-28 16:25:21
+========================================
+
+【文件】Assets\Script\CommonTool\Manager\ADAwesome.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：BgMusicSwitch → NoChileOrange
+  ├─ 位置：第191行、第213行、第305行、第361行（普通形式）
+  ├─ 替换前：BgMusicSwitch
+  └─ 替换后：NoChileOrange
+
+========================================
+本次修复统计：
+- 修复文件数：6
+- 修复名称数：1
+- 总替换次数：8
+- 正向替换：8次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-04-28 16:25:35
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\BuildEditScript.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ConfigUrl → MilletPeg
+  ├─ 位置：第225行、第229行（普通形式）
+  ├─ 替换前：ConfigUrl
+  └─ 替换后：MilletPeg
+
+========================================
+本次修复统计：
+- 修复文件数：7
+- 修复名称数：1
+- 总替换次数：2
+- 正向替换：2次
+- 反向替换：0次
+========================================
+
+

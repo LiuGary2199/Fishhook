@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1700,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A-Reward_BG
+  rotate: false
+  xy: 2, 488
+  size: 968, 1058
+  orig: 968, 1059
+  offset: 0, 0
+  index: -1
+A-Reward_BG_in
+  rotate: true
+  xy: 972, 808
+  size: 738, 520
+  orig: 738, 520
+  offset: 0, 0
+  index: -1
+A-Reward_Title_BG
+  rotate: false
+  xy: 2, 146
+  size: 1080, 340
+  orig: 1080, 347
+  offset: 0, 4
+  index: -1
+A-Reward_Title_TEXT
+  rotate: false
+  xy: 2, 2
+  size: 703, 142
+  orig: 704, 143
+  offset: 0, 1
+  index: -1
+pearl
+  rotate: false
+  xy: 1461, 297
+  size: 237, 236
+  orig: 240, 240
+  offset: 1, 2
+  index: -1
+robe_1
+  rotate: false
+  xy: 1461, 46
+  size: 223, 249
+  orig: 224, 250
+  offset: 1, 1
+  index: -1
+robe_2
+  rotate: true
+  xy: 1494, 1167
+  size: 192, 195
+  orig: 192, 196
+  offset: 0, 1
+  index: -1
+robe_3
+  rotate: true
+  xy: 1494, 1361
+  size: 185, 203
+  orig: 186, 204
+  offset: 0, 1
+  index: -1
+robe_4
+  rotate: true
+  xy: 707, 7
+  size: 137, 124
+  orig: 137, 124
+  offset: 0, 0
+  index: -1
+robe_5
+  rotate: false
+  xy: 833, 3
+  size: 102, 141
+  orig: 103, 141
+  offset: 1, 0
+  index: -1
+robe_6
+  rotate: true
+  xy: 972, 492
+  size: 314, 356
+  orig: 314, 356
+  offset: 0, 0
+  index: -1
+robe_7
+  rotate: true
+  xy: 1330, 535
+  size: 271, 221
+  orig: 271, 222
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 1084, 112
+  size: 375, 378
+  orig: 377, 380
+  offset: 1, 1
+  index: -1

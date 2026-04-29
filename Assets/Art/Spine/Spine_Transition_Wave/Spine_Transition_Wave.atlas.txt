@@ -1,0 +1,27 @@
+
+Spine_Transition_Wave.png
+size: 3156,2168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waves_Lower
+  rotate: true
+  xy: 2, 2
+  size: 1080, 1490
+  orig: 1080, 1490
+  offset: 0, 0
+  index: -1
+Waves_Middle
+  rotate: true
+  xy: 2, 1084
+  size: 1080, 3152
+  orig: 1080, 3152
+  offset: 0, 0
+  index: -1
+Waves_Upper
+  rotate: true
+  xy: 1494, 2
+  size: 1080, 1192
+  orig: 1080, 1192
+  offset: 0, 0
+  index: -1

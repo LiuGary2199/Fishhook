@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 948,708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss_b
+  rotate: true
+  xy: 693, 279
+  size: 227, 251
+  orig: 231, 257
+  offset: 2, 3
+  index: -1
+Boss_o
+  rotate: true
+  xy: 450, 286
+  size: 220, 241
+  orig: 224, 245
+  offset: 2, 2
+  index: -1
+Boss_ring_b
+  rotate: true
+  xy: 221, 305
+  size: 209, 227
+  orig: 212, 231
+  offset: 2, 2
+  index: -1
+Boss_ring_o
+  rotate: true
+  xy: 2, 323
+  size: 202, 217
+  orig: 205, 220
+  offset: 1, 2
+  index: -1
+Boss_ring_s1
+  rotate: true
+  xy: 219, 527
+  size: 177, 216
+  orig: 181, 220
+  offset: 2, 2
+  index: -1
+Boss_ring_s2
+  rotate: true
+  xy: 2, 535
+  size: 169, 215
+  orig: 173, 218
+  offset: 2, 2
+  index: -1
+Boss_s2
+  rotate: true
+  xy: 678, 508
+  size: 196, 240
+  orig: 200, 245
+  offset: 2, 2
+  index: -1
+Boss_ss2
+  rotate: true
+  xy: 437, 516
+  size: 188, 239
+  orig: 193, 243
+  offset: 2, 2
+  index: -1
+Inco
+  rotate: false
+  xy: 2, 2
+  size: 868, 275
+  orig: 870, 277
+  offset: 1, 1
+  index: -1

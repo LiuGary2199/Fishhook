@@ -1,0 +1,188 @@
+
+Octopus.png
+size: 1572, 2084
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Octopus_1
+  rotate: false
+  xy: 1449, 31
+  size: 105, 128
+  orig: 105, 130
+  offset: 0, 2
+  index: -1
+Octopus_1_1
+  rotate: true
+  xy: 396, 2
+  size: 105, 128
+  orig: 105, 130
+  offset: 0, 1
+  index: -1
+Octopus_1_2
+  rotate: true
+  xy: 526, 2
+  size: 105, 128
+  orig: 105, 130
+  offset: 0, 1
+  index: -1
+Octopus_1_3
+  rotate: true
+  xy: 656, 2
+  size: 105, 128
+  orig: 105, 130
+  offset: 0, 1
+  index: -1
+Octopus_1_4
+  rotate: true
+  xy: 786, 2
+  size: 105, 128
+  orig: 105, 130
+  offset: 0, 1
+  index: -1
+Octopus_1_5
+  rotate: true
+  xy: 916, 2
+  size: 105, 128
+  orig: 105, 130
+  offset: 0, 1
+  index: -1
+Octopus_2
+  rotate: true
+  xy: 1328, 792
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1
+Octopus_2_1
+  rotate: false
+  xy: 1356, 358
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1
+Octopus_2_2
+  rotate: false
+  xy: 1449, 161
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1
+Octopus_2_3
+  rotate: false
+  xy: 1463, 358
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1
+Octopus_2_4
+  rotate: true
+  xy: 2, 2
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1
+Octopus_2_5
+  rotate: true
+  xy: 199, 2
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1
+Octopus_3
+  rotate: true
+  xy: 1328, 1847
+  size: 235, 178
+  orig: 235, 178
+  offset: 0, 0
+  index: -1
+Octopus_3_1
+  rotate: true
+  xy: 1328, 1610
+  size: 235, 178
+  orig: 235, 178
+  offset: 0, 0
+  index: -1
+Octopus_3_2
+  rotate: true
+  xy: 1328, 1373
+  size: 235, 178
+  orig: 235, 178
+  offset: 0, 0
+  index: -1
+Octopus_3_3
+  rotate: true
+  xy: 1328, 1136
+  size: 235, 178
+  orig: 235, 178
+  offset: 0, 0
+  index: -1
+Octopus_3_4
+  rotate: true
+  xy: 1328, 899
+  size: 235, 178
+  orig: 235, 178
+  offset: 0, 0
+  index: -1
+Octopus_3_5
+  rotate: true
+  xy: 1356, 555
+  size: 235, 178
+  orig: 235, 178
+  offset: 0, 0
+  index: -1
+Octopus_4
+  rotate: false
+  xy: 2, 1407
+  size: 647, 675
+  orig: 653, 675
+  offset: 6, 0
+  index: -1
+Octopus_4_1
+  rotate: true
+  xy: 2, 758
+  size: 647, 675
+  orig: 653, 675
+  offset: 6, 0
+  index: -1
+Octopus_4_2
+  rotate: true
+  xy: 651, 1435
+  size: 647, 675
+  orig: 653, 675
+  offset: 6, 0
+  index: -1
+Octopus_4_3
+  rotate: false
+  xy: 679, 758
+  size: 647, 675
+  orig: 653, 675
+  offset: 6, 0
+  index: -1
+Octopus_4_4
+  rotate: true
+  xy: 2, 109
+  size: 647, 675
+  orig: 653, 675
+  offset: 6, 0
+  index: -1
+Octopus_4_5
+  rotate: true
+  xy: 679, 109
+  size: 647, 675
+  orig: 653, 675
+  offset: 6, 0
+  index: -1
+Octopus_eye
+  rotate: false
+  xy: 1046, 12
+  size: 246, 95
+  orig: 266, 105
+  offset: 14, 10
+  index: -1
+Octopus_eye1
+  rotate: true
+  xy: 1356, 96
+  size: 260, 91
+  orig: 266, 105
+  offset: 4, 11
+  index: -1

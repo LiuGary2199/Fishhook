@@ -1,0 +1,230 @@
+
+Lanternfish.png
+size: 976, 2076
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Lanternfish_1
+  rotate: false
+  xy: 752, 504
+  size: 108, 72
+  orig: 110, 75
+  offset: 2, 0
+  index: -1
+Lanternfish_1_1
+  rotate: false
+  xy: 862, 470
+  size: 108, 72
+  orig: 110, 75
+  offset: 1, 1
+  index: -1
+Lanternfish_1_2
+  rotate: false
+  xy: 752, 127
+  size: 106, 72
+  orig: 110, 75
+  offset: 3, 1
+  index: -1
+Lanternfish_1_3
+  rotate: false
+  xy: 860, 93
+  size: 106, 72
+  orig: 110, 75
+  offset: 3, 1
+  index: -1
+Lanternfish_1_4
+  rotate: false
+  xy: 752, 53
+  size: 106, 72
+  orig: 110, 75
+  offset: 3, 1
+  index: -1
+Lanternfish_1_5
+  rotate: false
+  xy: 860, 19
+  size: 106, 72
+  orig: 110, 75
+  offset: 3, 1
+  index: -1
+Lanternfish_2
+  rotate: true
+  xy: 752, 403
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+Lanternfish_2_1
+  rotate: true
+  xy: 861, 369
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+Lanternfish_2_2
+  rotate: true
+  xy: 752, 302
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+Lanternfish_2_3
+  rotate: true
+  xy: 861, 268
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+Lanternfish_2_4
+  rotate: true
+  xy: 752, 201
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+Lanternfish_2_5
+  rotate: true
+  xy: 861, 167
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+Lanternfish_3
+  rotate: false
+  xy: 576, 1865
+  size: 385, 209
+  orig: 389, 209
+  offset: 0, 0
+  index: -1
+Lanternfish_3_1
+  rotate: false
+  xy: 576, 1654
+  size: 385, 209
+  orig: 389, 209
+  offset: 0, 0
+  index: -1
+Lanternfish_3_2
+  rotate: false
+  xy: 576, 1443
+  size: 385, 209
+  orig: 389, 209
+  offset: 0, 0
+  index: -1
+Lanternfish_3_3
+  rotate: false
+  xy: 576, 1232
+  size: 385, 209
+  orig: 389, 209
+  offset: 0, 0
+  index: -1
+Lanternfish_3_4
+  rotate: false
+  xy: 576, 1021
+  size: 385, 209
+  orig: 389, 209
+  offset: 0, 0
+  index: -1
+Lanternfish_3_5
+  rotate: false
+  xy: 576, 810
+  size: 385, 209
+  orig: 389, 209
+  offset: 0, 0
+  index: -1
+Lanternfish_4
+  rotate: false
+  xy: 752, 730
+  size: 150, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+Lanternfish_4_1
+  rotate: true
+  xy: 576, 578
+  size: 150, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+Lanternfish_4_2
+  rotate: false
+  xy: 576, 730
+  size: 150, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+Lanternfish_4_3
+  rotate: true
+  xy: 656, 578
+  size: 150, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+Lanternfish_4_4
+  rotate: true
+  xy: 736, 578
+  size: 150, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+Lanternfish_4_5
+  rotate: true
+  xy: 816, 578
+  size: 150, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+Lanternfish_5
+  rotate: false
+  xy: 2, 1701
+  size: 572, 373
+  orig: 572, 373
+  offset: 0, 0
+  index: -1
+Lanternfish_5_1
+  rotate: false
+  xy: 2, 1326
+  size: 572, 373
+  orig: 572, 373
+  offset: 0, 0
+  index: -1
+Lanternfish_5_2
+  rotate: false
+  xy: 2, 951
+  size: 572, 373
+  orig: 572, 373
+  offset: 0, 0
+  index: -1
+Lanternfish_5_3
+  rotate: false
+  xy: 2, 576
+  size: 572, 373
+  orig: 572, 373
+  offset: 0, 0
+  index: -1
+Lanternfish_5_4
+  rotate: true
+  xy: 2, 2
+  size: 572, 373
+  orig: 572, 373
+  offset: 0, 0
+  index: -1
+Lanternfish_5_5
+  rotate: true
+  xy: 377, 2
+  size: 572, 373
+  orig: 572, 373
+  offset: 0, 0
+  index: -1
+Lanternfish_eye
+  rotate: true
+  xy: 904, 686
+  size: 122, 67
+  orig: 145, 83
+  offset: 20, 11
+  index: -1
+Lanternfish_eye1
+  rotate: true
+  xy: 896, 544
+  size: 140, 72
+  orig: 145, 83
+  offset: 3, 10
+  index: -1

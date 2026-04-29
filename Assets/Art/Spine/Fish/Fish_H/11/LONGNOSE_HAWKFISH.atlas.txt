@@ -1,0 +1,104 @@
+
+LONGNOSE_HAWKFISH.png
+size: 348,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: true
+  xy: 264, 7
+  size: 25, 36
+  orig: 25, 38
+  offset: 0, 2
+  index: -1
+heiyanqiu
+  rotate: true
+  xy: 333, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+lanyanqiu
+  rotate: true
+  xy: 191, 10
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shangqi01
+  rotate: false
+  xy: 217, 27
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+shangqi02
+  rotate: false
+  xy: 168, 23
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 164, 58
+  orig: 164, 58
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 315, 34
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 264, 34
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 240, 4
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 343, 55
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 302, 7
+  size: 25, 29
+  orig: 28, 32
+  offset: 3, 1
+  index: -1
+yanpi
+  rotate: true
+  xy: 333, 11
+  size: 21, 12
+  orig: 27, 15
+  offset: 5, 3
+  index: -1
+yanpi01
+  rotate: false
+  xy: 168, 6
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 217, 4
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

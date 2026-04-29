@@ -1,0 +1,83 @@
+
+BLACKTAIL_BUTTERFLYFISH.png
+size: 192,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heiweidie 10
+  rotate: false
+  xy: 2, 58
+  size: 146, 84
+  orig: 146, 84
+  offset: 0, 0
+  index: -1
+heiweidie 11
+  rotate: false
+  xy: 105, 14
+  size: 19, 42
+  orig: 20, 42
+  offset: 1, 0
+  index: -1
+heiweidie 12
+  rotate: true
+  xy: 150, 60
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+heiweidie 13
+  rotate: false
+  xy: 2, 6
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+heiweidie 3
+  rotate: false
+  xy: 105, 3
+  size: 17, 9
+  orig: 18, 9
+  offset: 1, 0
+  index: -1
+heiweidie 4
+  rotate: true
+  xy: 174, 39
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+heiweidie 5
+  rotate: false
+  xy: 156, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+heiweidie 6
+  rotate: false
+  xy: 183, 131
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+heiweidie 7
+  rotate: true
+  xy: 126, 2
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+heiweidie 8
+  rotate: false
+  xy: 126, 25
+  size: 28, 31
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+heiweidie 9
+  rotate: true
+  xy: 156, 32
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1

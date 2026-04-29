@@ -1,0 +1,56 @@
+{
+"skeleton": {
+	"hash": "wZDJedX/CnZ/nAGHDYHg/TpDS4g",
+	"spine": "3.8.99",
+	"x": -779,
+	"y": -1170,
+	"width": 1559,
+	"height": 2340,
+	"images": "../../Boss参考视频/images/",
+	"audio": "C:/Users/win10/Desktop/01项目文件/捕鱼/spine文件/BOSS"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Titlebg", "bone": "root", "attachment": "Titlebg" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Titlebg": {
+				"Titlebg": { "x": 0.5, "y": 149.29, "width": 1559, "height": 572 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"Titlebg": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				],
+				"shear": [
+					{}
+				]
+			}
+		}
+	}
+}
+}

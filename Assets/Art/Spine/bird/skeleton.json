@@ -1,0 +1,85 @@
+{
+"skeleton": {
+	"hash": "2th0d7Vn6VP6sJ/kN2N/o1X751g",
+	"spine": "3.8",
+	"x": -128,
+	"y": -128,
+	"width": 256,
+	"height": 256,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "all", "parent": "root" }
+],
+"slots": [
+	{ "name": "bird1", "bone": "all", "attachment": "bird16" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bird1": {
+				"bird1": { "width": 256, "height": 256 },
+				"bird2": { "width": 256, "height": 256 },
+				"bird3": { "width": 256, "height": 256 },
+				"bird4": { "width": 256, "height": 256 },
+				"bird5": { "width": 256, "height": 256 },
+				"bird6": { "width": 256, "height": 256 },
+				"bird7": { "width": 256, "height": 256 },
+				"bird8": { "width": 256, "height": 256 },
+				"bird9": { "width": 256, "height": 256 },
+				"bird10": { "width": 256, "height": 256 },
+				"bird11": { "width": 256, "height": 256 },
+				"bird12": { "width": 256, "height": 256 },
+				"bird13": { "width": 256, "height": 256 },
+				"bird14": { "width": 256, "height": 256 },
+				"bird15": { "width": 256, "height": 256 },
+				"bird16": { "width": 256, "height": 256 }
+			}
+		}
+	}
+],
+"animations": {
+	"fly": {
+		"slots": {
+			"bird1": {
+				"attachment": [
+					{ "name": "bird1" },
+					{ "time": 0.0333, "name": "bird2" },
+					{ "time": 0.0667, "name": "bird3" },
+					{ "time": 0.1, "name": "bird4" },
+					{ "time": 0.1333, "name": "bird5" },
+					{ "time": 0.1667, "name": "bird6" },
+					{ "time": 0.2, "name": "bird7" },
+					{ "time": 0.2333, "name": "bird8" },
+					{ "time": 0.2667, "name": "bird9" },
+					{ "time": 0.3, "name": "bird10" },
+					{ "time": 0.3333, "name": "bird11" },
+					{ "time": 0.3667, "name": "bird12" },
+					{ "time": 0.4, "name": "bird13" },
+					{ "time": 0.4333, "name": "bird14" },
+					{ "time": 0.4667, "name": "bird15" },
+					{ "time": 0.5, "name": "bird1" },
+					{ "time": 0.5333, "name": "bird2" },
+					{ "time": 0.5667, "name": "bird3" },
+					{ "time": 0.6, "name": "bird4" },
+					{ "time": 0.6333, "name": "bird5" },
+					{ "time": 0.6667, "name": "bird6" },
+					{ "time": 0.7, "name": "bird7" },
+					{ "time": 0.7333, "name": "bird8" },
+					{ "time": 0.7667, "name": "bird9" },
+					{ "time": 0.8, "name": "bird10" },
+					{ "time": 0.8333, "name": "bird11" },
+					{ "time": 0.8667, "name": "bird12" },
+					{ "time": 0.9, "name": "bird13" },
+					{ "time": 0.9333, "name": "bird14" },
+					{ "time": 0.9667, "name": "bird15" },
+					{ "time": 1, "name": "bird16" }
+				]
+			}
+		}
+	}
+}
+}

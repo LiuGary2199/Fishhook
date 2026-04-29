@@ -1,0 +1,104 @@
+
+BANGGAI_CARDINAL.png
+size: 960,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyanqiu
+  rotate: false
+  xy: 835, 16
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+ceqi
+  rotate: false
+  xy: 711, 17
+  size: 42, 40
+  orig: 46, 42
+  offset: 4, 2
+  index: -1
+heiyanzhu
+  rotate: false
+  xy: 935, 14
+  size: 11, 16
+  orig: 13, 18
+  offset: 1, 1
+  index: -1
+lanyanqiu
+  rotate: false
+  xy: 935, 32
+  size: 23, 26
+  orig: 25, 28
+  offset: 1, 1
+  index: -1
+shangqi01
+  rotate: true
+  xy: 890, 60
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+shangqi02
+  rotate: false
+  xy: 2, 2
+  size: 187, 129
+  orig: 187, 129
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 191, 5
+  size: 374, 126
+  orig: 374, 126
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 788, 62
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: true
+  xy: 567, 21
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 881, 51
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+yankuang
+  rotate: false
+  xy: 711, 59
+  size: 75, 72
+  orig: 82, 81
+  offset: 4, 5
+  index: -1
+yanpi
+  rotate: true
+  xy: 755, 14
+  size: 43, 25
+  orig: 58, 28
+  offset: 3, 2
+  index: -1
+yanpi01
+  rotate: false
+  xy: 888, 24
+  size: 45, 34
+  orig: 47, 36
+  offset: 1, 1
+  index: -1
+yanpi02
+  rotate: false
+  xy: 788, 15
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1

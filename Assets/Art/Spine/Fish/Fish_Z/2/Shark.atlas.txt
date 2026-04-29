@@ -1,0 +1,83 @@
+
+Shark.png
+size: 3688, 448
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Shark_1
+  rotate: false
+  xy: 2, 2
+  size: 1024, 444
+  orig: 1024, 521
+  offset: 0, 31
+  index: -1
+Shark_1_1
+  rotate: false
+  xy: 1028, 2
+  size: 1024, 444
+  orig: 1024, 521
+  offset: 0, 31
+  index: -1
+Shark_1_2
+  rotate: false
+  xy: 2054, 2
+  size: 1024, 444
+  orig: 1024, 521
+  offset: 0, 31
+  index: -1
+Shark_2
+  rotate: false
+  xy: 3361, 34
+  size: 189, 131
+  orig: 201, 131
+  offset: 0, 0
+  index: -1
+Shark_2_1
+  rotate: true
+  xy: 3551, 257
+  size: 189, 131
+  orig: 201, 131
+  offset: 0, 0
+  index: -1
+Shark_2_2
+  rotate: true
+  xy: 3552, 66
+  size: 189, 131
+  orig: 201, 131
+  offset: 0, 0
+  index: -1
+Shark_3
+  rotate: false
+  xy: 3080, 258
+  size: 279, 188
+  orig: 279, 188
+  offset: 0, 0
+  index: -1
+Shark_3_1
+  rotate: true
+  xy: 3361, 167
+  size: 279, 188
+  orig: 279, 188
+  offset: 0, 0
+  index: -1
+Shark_3_2
+  rotate: false
+  xy: 3080, 68
+  size: 279, 188
+  orig: 279, 188
+  offset: 0, 0
+  index: -1
+Shark_eye
+  rotate: true
+  xy: 3609, 32
+  size: 32, 40
+  orig: 58, 59
+  offset: 25, 0
+  index: -1
+Shark_eye1
+  rotate: false
+  xy: 3552, 14
+  size: 55, 50
+  orig: 58, 59
+  offset: 3, 7
+  index: -1

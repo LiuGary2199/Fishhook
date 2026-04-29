@@ -1,0 +1,20 @@
+name: Devops Workflow - Checkout Empty Project
+# 更多有关构建工作流的信息，请参考 https://devops.u3dcloud.cn/help/docs/advanced/yaml
+# 您也可以访问注释中的其它链接来了解更多关于 云构建 action 的使用方法
+
+# 在提交至代码库时触发云构建任务
+on: [push]
+
+jobs:
+  build:
+    name: Checkout my project
+    # 为了让工作流可以正常触发，需要指定正确的 runs-on 标签
+    runs-on: windows-server-2022-tuanjie-1.1.0-weixinminigame-8c-16g
+    steps:
+      # 从 PlasticSCM 签出项目 https://devops.u3dcloud.cn/help/docs/advanced/action#actionscheckout-plasticscm
+      - name: Check out project repository
+        uses: actions/checkout-plasticscm@v1
+
+      # 检查签出内容
+      - name: List repository content
+        run: ls -l .

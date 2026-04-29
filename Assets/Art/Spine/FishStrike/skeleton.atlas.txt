@@ -1,0 +1,202 @@
+
+skeleton.png
+size: 1956,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Fish_1f_a
+  rotate: false
+  xy: 1405, 14
+  size: 158, 227
+  orig: 161, 230
+  offset: 2, 2
+  index: -1
+images/Fish_1f_b
+  rotate: false
+  xy: 792, 182
+  size: 204, 288
+  orig: 213, 296
+  offset: 5, 5
+  index: -1
+images/Fish_2i_a
+  rotate: true
+  xy: 1585, 246
+  size: 66, 198
+  orig: 68, 201
+  offset: 1, 2
+  index: -1
+images/Fish_2i_b
+  rotate: false
+  xy: 1209, 211
+  size: 115, 259
+  orig: 123, 268
+  offset: 4, 6
+  index: -1
+images/Fish_3s_a
+  rotate: false
+  xy: 1261, 5
+  size: 142, 204
+  orig: 144, 207
+  offset: 1, 1
+  index: -1
+images/Fish_3s_b
+  rotate: true
+  xy: 1681, 472
+  size: 187, 264
+  orig: 196, 272
+  offset: 4, 5
+  index: -1
+images/Fish_4h_a
+  rotate: true
+  xy: 795, 2
+  size: 178, 231
+  orig: 181, 234
+  offset: 2, 2
+  index: -1
+images/Fish_4h_b
+  rotate: false
+  xy: 564, 180
+  size: 226, 290
+  orig: 234, 299
+  offset: 4, 6
+  index: -1
+images/coin_1
+  rotate: true
+  xy: 1669, 343
+  size: 127, 124
+  orig: 133, 129
+  offset: 3, 2
+  index: -1
+images/coin_2
+  rotate: false
+  xy: 1795, 357
+  size: 127, 113
+  orig: 132, 119
+  offset: 3, 3
+  index: -1
+images/coin_3
+  rotate: false
+  xy: 1785, 162
+  size: 101, 83
+  orig: 107, 88
+  offset: 3, 3
+  index: -1
+images/coin_4
+  rotate: false
+  xy: 1667, 63
+  size: 87, 90
+  orig: 93, 96
+  offset: 3, 3
+  index: -1
+images/coin_5
+  rotate: false
+  xy: 1756, 67
+  size: 82, 86
+  orig: 88, 92
+  offset: 3, 3
+  index: -1
+images/coin_6
+  rotate: false
+  xy: 1505, 245
+  size: 78, 67
+  orig: 84, 72
+  offset: 3, 2
+  index: -1
+images/fx_gold_1
+  rotate: false
+  xy: 1905, 319
+  size: 36, 36
+  orig: 42, 42
+  offset: 3, 3
+  index: -1
+images/fx_star_yellow
+  rotate: true
+  xy: 1840, 84
+  size: 76, 78
+  orig: 86, 88
+  offset: 5, 5
+  index: -1
+images/gold_wave
+  rotate: false
+  xy: 564, 478
+  size: 1115, 376
+  orig: 1115, 379
+  offset: 0, 0
+  index: -1
+images/shark_body
+  rotate: true
+  xy: 2, 36
+  size: 818, 560
+  orig: 818, 560
+  offset: 0, 0
+  index: -1
+images/shark_eye
+  rotate: false
+  xy: 1888, 184
+  size: 63, 61
+  orig: 66, 65
+  offset: 2, 2
+  index: -1
+images/shark_eyelid
+  rotate: false
+  xy: 1795, 247
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+images/starfish
+  rotate: false
+  xy: 1505, 314
+  size: 162, 162
+  orig: 168, 169
+  offset: 3, 3
+  index: -1
+images/starfish2
+  rotate: true
+  xy: 1667, 155
+  size: 89, 92
+  orig: 97, 99
+  offset: 4, 4
+  index: -1
+images/strike_1s
+  rotate: false
+  xy: 998, 195
+  size: 209, 275
+  orig: 215, 281
+  offset: 3, 3
+  index: -1
+images/strike_2t
+  rotate: false
+  xy: 1326, 243
+  size: 177, 227
+  orig: 183, 233
+  offset: 3, 3
+  index: -1
+images/strike_3r
+  rotate: true
+  xy: 564, 15
+  size: 163, 229
+  orig: 169, 236
+  offset: 3, 3
+  index: -1
+images/strike_4i
+  rotate: false
+  xy: 1565, 17
+  size: 100, 226
+  orig: 106, 232
+  offset: 3, 3
+  index: -1
+images/strike_5k
+  rotate: true
+  xy: 1028, 4
+  size: 189, 231
+  orig: 195, 237
+  offset: 3, 3
+  index: -1
+images/strike_6e
+  rotate: true
+  xy: 1681, 661
+  size: 193, 271
+  orig: 199, 277
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,104 @@
+
+GOLD_GOURAMI.png
+size: 112,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: true
+  xy: 84, 135
+  size: 68, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+chuxu
+  rotate: false
+  xy: 67, 98
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: false
+  xy: 67, 33
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+fuqiyin
+  rotate: false
+  xy: 67, 80
+  size: 27, 16
+  orig: 27, 23
+  offset: 0, 2
+  index: -1
+gaoguang
+  rotate: true
+  xy: 74, 138
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 158, 63
+  orig: 164, 66
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 2, 162
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 67, 144
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 67, 56
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: true
+  xy: 91, 40
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: true
+  xy: 96, 80
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: false
+  xy: 91, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yanzhu01
+  rotate: false
+  xy: 67, 136
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+yanzhu02
+  rotate: true
+  xy: 91, 30
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+GOLDFLAKE_ANGELFISH.png
+size: 176,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: true
+  xy: 81, 36
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: false
+  xy: 130, 53
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 140, 77
+  orig: 140, 77
+  offset: 0, 0
+  index: -1
+tongkong_da
+  rotate: true
+  xy: 151, 43
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+tongkong_gg
+  rotate: true
+  xy: 109, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+tongkong_xiao
+  rotate: true
+  xy: 101, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+weiqi
+  rotate: true
+  xy: 130, 87
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 151, 67
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 101, 9
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+yanpi_01
+  rotate: false
+  xy: 130, 36
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+yanpi_02
+  rotate: false
+  xy: 151, 26
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+yanpi_03
+  rotate: false
+  xy: 130, 66
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanpi_yz_01
+  rotate: true
+  xy: 142, 6
+  size: 18, 14
+  orig: 19, 14
+  offset: 1, 0
+  index: -1
+yanpi_yz_02
+  rotate: true
+  xy: 162, 48
+  size: 17, 7
+  orig: 18, 8
+  offset: 1, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 123, 8
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+yuqi_yz
+  rotate: true
+  xy: 81, 6
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+yuzui
+  rotate: false
+  xy: 158, 6
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1

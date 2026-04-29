@@ -1,0 +1,90 @@
+
+ALLARDS_CLOWNFISH.png
+size: 184,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 2, 27
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: false
+  xy: 2, 10
+  size: 46, 15
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+houqi
+  rotate: false
+  xy: 133, 34
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 60
+  size: 179, 82
+  orig: 179, 82
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: true
+  xy: 147, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 105, 5
+  size: 20, 20
+  orig: 24, 22
+  offset: 2, 1
+  index: -1
+yankuang
+  rotate: true
+  xy: 50, 6
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+yanpi_01
+  rotate: true
+  xy: 164, 13
+  size: 19, 14
+  orig: 19, 15
+  offset: 0, 1
+  index: -1
+yanpi_02
+  rotate: true
+  xy: 147, 12
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+yanpi_03
+  rotate: false
+  xy: 127, 5
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 97, 27
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+yuqi_yz
+  rotate: false
+  xy: 76, 9
+  size: 27, 16
+  orig: 32, 19
+  offset: 3, 1
+  index: -1

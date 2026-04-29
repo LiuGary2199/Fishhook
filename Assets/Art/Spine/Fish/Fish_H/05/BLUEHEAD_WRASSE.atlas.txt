@@ -1,0 +1,97 @@
+
+BLUEHEAD_WRASSE.png
+size: 284,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 195, 11
+  size: 30, 38
+  orig: 35, 40
+  offset: 0, 2
+  index: -1
+heiyanqiu
+  rotate: false
+  xy: 25, 4
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 195, 51
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 14
+  size: 164, 64
+  orig: 164, 64
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 34, 5
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: true
+  xy: 168, 15
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+yabpi01
+  rotate: false
+  xy: 227, 3
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 256, 5
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 66, 7
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 227, 19
+  size: 27, 30
+  orig: 31, 33
+  offset: 2, 2
+  index: -1
+yanpi
+  rotate: false
+  xy: 2, 2
+  size: 21, 10
+  orig: 27, 15
+  offset: 5, 5
+  index: -1
+yanpi02
+  rotate: false
+  xy: 256, 28
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ziyanqiu
+  rotate: true
+  xy: 168, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

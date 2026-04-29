@@ -1,0 +1,104 @@
+
+ORANGEBACK_ANGELFISH.png
+size: 160,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: true
+  xy: 39, 2
+  size: 30, 39
+  orig: 30, 40
+  offset: 0, 1
+  index: -1
+heiyanqiu
+  rotate: true
+  xy: 132, 6
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 124, 4
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+lanyanqiu
+  rotate: true
+  xy: 144, 41
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 39, 34
+  size: 103, 36
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 72
+  size: 152, 68
+  orig: 152, 68
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: true
+  xy: 144, 2
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: true
+  xy: 2, 2
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 125, 14
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 154, 34
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 80, 7
+  size: 23, 25
+  orig: 26, 27
+  offset: 1, 1
+  index: -1
+yanpi
+  rotate: false
+  xy: 105, 3
+  size: 17, 9
+  orig: 23, 12
+  offset: 6, 3
+  index: -1
+yanpi01
+  rotate: true
+  xy: 144, 52
+  size: 18, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 105, 14
+  size: 18, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

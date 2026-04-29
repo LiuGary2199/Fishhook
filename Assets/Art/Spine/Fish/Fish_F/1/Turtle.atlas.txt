@@ -1,0 +1,272 @@
+
+Turtle.png
+size: 3216, 672
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Turtle_1
+  rotate: true
+  xy: 3016, 311
+  size: 82, 64
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+Turtle_1_1
+  rotate: true
+  xy: 3082, 314
+  size: 79, 63
+  orig: 82, 66
+  offset: 2, 0
+  index: -1
+Turtle_1_2
+  rotate: true
+  xy: 3108, 233
+  size: 79, 62
+  orig: 82, 66
+  offset: 2, 2
+  index: -1
+Turtle_1_3
+  rotate: true
+  xy: 3147, 314
+  size: 79, 62
+  orig: 82, 66
+  offset: 2, 2
+  index: -1
+Turtle_1_4
+  rotate: true
+  xy: 3108, 152
+  size: 79, 62
+  orig: 82, 66
+  offset: 2, 2
+  index: -1
+Turtle_1_5
+  rotate: true
+  xy: 3108, 71
+  size: 79, 61
+  orig: 82, 66
+  offset: 2, 3
+  index: -1
+Turtle_2
+  rotate: false
+  xy: 1774, 283
+  size: 205, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+Turtle_2_1
+  rotate: false
+  xy: 1981, 283
+  size: 205, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+Turtle_2_2
+  rotate: false
+  xy: 2188, 283
+  size: 205, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+Turtle_2_3
+  rotate: false
+  xy: 2395, 283
+  size: 205, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+Turtle_2_4
+  rotate: false
+  xy: 2602, 287
+  size: 205, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+Turtle_2_5
+  rotate: false
+  xy: 2809, 287
+  size: 205, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+Turtle_3_1
+  rotate: true
+  xy: 2, 237
+  size: 433, 254
+  orig: 433, 254
+  offset: 0, 0
+  index: -1
+Turtle_3_1_1
+  rotate: true
+  xy: 258, 237
+  size: 433, 254
+  orig: 433, 254
+  offset: 0, 0
+  index: -1
+Turtle_3_1_2
+  rotate: true
+  xy: 514, 237
+  size: 433, 254
+  orig: 433, 254
+  offset: 0, 0
+  index: -1
+Turtle_3_1_3
+  rotate: true
+  xy: 770, 237
+  size: 433, 254
+  orig: 433, 254
+  offset: 0, 0
+  index: -1
+Turtle_3_1_4
+  rotate: true
+  xy: 1026, 237
+  size: 433, 254
+  orig: 433, 254
+  offset: 0, 0
+  index: -1
+Turtle_3_1_5
+  rotate: true
+  xy: 1282, 237
+  size: 433, 254
+  orig: 433, 254
+  offset: 0, 0
+  index: -1
+Turtle_3_2
+  rotate: true
+  xy: 1538, 261
+  size: 409, 234
+  orig: 412, 238
+  offset: 3, 0
+  index: -1
+Turtle_3_2_1
+  rotate: false
+  xy: 2, 2
+  size: 408, 233
+  orig: 412, 238
+  offset: 4, 1
+  index: -1
+Turtle_3_2_2
+  rotate: false
+  xy: 412, 2
+  size: 407, 233
+  orig: 412, 238
+  offset: 5, 1
+  index: -1
+Turtle_3_2_3
+  rotate: false
+  xy: 821, 3
+  size: 406, 232
+  orig: 412, 238
+  offset: 6, 2
+  index: -1
+Turtle_3_2_4
+  rotate: false
+  xy: 1229, 3
+  size: 406, 232
+  orig: 412, 238
+  offset: 6, 2
+  index: -1
+Turtle_3_2_5
+  rotate: false
+  xy: 1637, 27
+  size: 406, 232
+  orig: 412, 238
+  offset: 6, 2
+  index: -1
+Turtle_4
+  rotate: true
+  xy: 2461, 395
+  size: 275, 186
+  orig: 276, 186
+  offset: 0, 0
+  index: -1
+Turtle_4_1
+  rotate: true
+  xy: 2732, 10
+  size: 275, 186
+  orig: 276, 186
+  offset: 0, 0
+  index: -1
+Turtle_4_2
+  rotate: true
+  xy: 2649, 395
+  size: 275, 186
+  orig: 276, 186
+  offset: 0, 0
+  index: -1
+Turtle_4_3
+  rotate: true
+  xy: 2920, 10
+  size: 275, 186
+  orig: 276, 186
+  offset: 0, 0
+  index: -1
+Turtle_4_4
+  rotate: true
+  xy: 2837, 395
+  size: 275, 186
+  orig: 276, 186
+  offset: 0, 0
+  index: -1
+Turtle_4_5
+  rotate: true
+  xy: 3025, 395
+  size: 275, 186
+  orig: 276, 186
+  offset: 0, 0
+  index: -1
+Turtle_5
+  rotate: true
+  xy: 1774, 391
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+Turtle_5_1
+  rotate: true
+  xy: 2045, 2
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+Turtle_5_2
+  rotate: true
+  xy: 2003, 391
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+Turtle_5_3
+  rotate: true
+  xy: 2274, 2
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+Turtle_5_4
+  rotate: true
+  xy: 2232, 391
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+Turtle_5_5
+  rotate: true
+  xy: 2503, 2
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+Turtle_eye
+  rotate: false
+  xy: 3143, 34
+  size: 28, 35
+  orig: 41, 41
+  offset: 12, 6
+  index: -1
+Turtle_eye1
+  rotate: true
+  xy: 3108, 31
+  size: 38, 33
+  orig: 41, 41
+  offset: 2, 3
+  index: -1

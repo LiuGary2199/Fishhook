@@ -1,0 +1,104 @@
+
+CARPENTERS_FLASHER.png
+size: 396,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy
+  rotate: false
+  xy: 314, 6
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+q
+  rotate: true
+  xy: 350, 34
+  size: 25, 21
+  orig: 26, 23
+  offset: 0, 2
+  index: -1
+q2
+  rotate: false
+  xy: 157, 7
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 257, 21
+  size: 91, 38
+  orig: 91, 38
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 7
+  size: 153, 52
+  orig: 153, 52
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 390, 33
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yh
+  rotate: false
+  xy: 330, 10
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: false
+  xy: 339, 13
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+yp1.1
+  rotate: false
+  xy: 373, 38
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+yp1.2
+  rotate: false
+  xy: 295, 6
+  size: 17, 13
+  orig: 17, 14
+  offset: 0, 1
+  index: -1
+yp1.3
+  rotate: false
+  xy: 276, 4
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+yp1.4
+  rotate: false
+  xy: 350, 14
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yq
+  rotate: false
+  xy: 257, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+yyy
+  rotate: false
+  xy: 370, 14
+  size: 18, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,111 @@
+
+PREGNANT_MARIE.png
+size: 272,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi01
+  rotate: false
+  xy: 192, 12
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+ceqi01_yz
+  rotate: true
+  xy: 161, 20
+  size: 15, 29
+  orig: 22, 31
+  offset: 0, 2
+  index: -1
+ceqi02
+  rotate: true
+  xy: 231, 13
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+ceqi02_yz
+  rotate: true
+  xy: 212, 8
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 181, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 161, 37
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 3
+  size: 157, 72
+  orig: 157, 72
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 191, 4
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 216, 49
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 248, 16
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 216, 26
+  size: 21, 30
+  orig: 26, 33
+  offset: 3, 3
+  index: -1
+yanpi
+  rotate: false
+  xy: 161, 4
+  size: 18, 14
+  orig: 19, 16
+  offset: 0, 2
+  index: -1
+yanpi01
+  rotate: false
+  xy: 250, 58
+  size: 20, 17
+  orig: 21, 18
+  offset: 0, 1
+  index: -1
+yanpi02
+  rotate: false
+  xy: 250, 35
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 181, 7
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1316,1552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boat_3
+  rotate: false
+  xy: 1000, 921
+  size: 273, 286
+  orig: 601, 286
+  offset: 0, 0
+  index: -1
+Boat_4
+  rotate: false
+  xy: 2, 372
+  size: 679, 408
+  orig: 758, 408
+  offset: 79, 0
+  index: -1
+GCPile_01
+  rotate: true
+  xy: 595, 275
+  size: 95, 56
+  orig: 98, 58
+  offset: 2, 1
+  index: -1
+GCPile_28
+  rotate: false
+  xy: 2, 2
+  size: 96, 60
+  orig: 100, 64
+  offset: 2, 2
+  index: -1
+GCPile_32
+  rotate: true
+  xy: 595, 178
+  size: 95, 53
+  orig: 99, 56
+  offset: 2, 2
+  index: -1
+GCPile_35
+  rotate: true
+  xy: 1000, 823
+  size: 96, 52
+  orig: 98, 54
+  offset: 1, 1
+  index: -1
+GCPile_36
+  rotate: true
+  xy: 1000, 823
+  size: 96, 52
+  orig: 98, 54
+  offset: 1, 1
+  index: -1
+Title_LevelUpDI
+  rotate: false
+  xy: 2, 1209
+  size: 1144, 340
+  orig: 1295, 1041
+  offset: 47, 162
+  index: -1
+Title_LevelUpzi
+  rotate: false
+  xy: 595, 26
+  size: 716, 150
+  orig: 1295, 1041
+  offset: 281, 304
+  index: -1
+coin_all
+  rotate: true
+  xy: 1086, 390
+  size: 529, 220
+  orig: 533, 238
+  offset: 2, 2
+  index: -1
+flag
+  rotate: false
+  xy: 1086, 229
+  size: 155, 159
+  orig: 248, 184
+  offset: 58, 25
+  index: -1
+gold_wave
+  rotate: false
+  xy: 2, 782
+  size: 996, 425
+  orig: 996, 425
+  offset: 0, 0
+  index: -1
+starfiah_1
+  rotate: false
+  xy: 1148, 1293
+  size: 89, 91
+  orig: 95, 97
+  offset: 3, 3
+  index: -1
+starfiah_2
+  rotate: false
+  xy: 1148, 1386
+  size: 162, 163
+  orig: 166, 167
+  offset: 2, 2
+  index: -1
+wave_L
+  rotate: false
+  xy: 2, 64
+  size: 591, 306
+  orig: 591, 306
+  offset: 0, 0
+  index: -1
+wave_R
+  rotate: true
+  xy: 683, 178
+  size: 602, 401
+  orig: 602, 401
+  offset: 0, 0
+  index: -1

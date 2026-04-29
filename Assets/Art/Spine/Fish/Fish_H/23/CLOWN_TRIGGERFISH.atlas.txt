@@ -1,0 +1,139 @@
+
+CLOWN_TRIGGERFISH.png
+size: 236,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houyan
+  rotate: false
+  xy: 213, 18
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+houyan01
+  rotate: false
+  xy: 94, 3
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+houyan02
+  rotate: true
+  xy: 197, 11
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+houyan03
+  rotate: false
+  xy: 46, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+houyan04
+  rotate: false
+  xy: 165, 87
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+houyan05
+  rotate: false
+  xy: 176, 9
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+qi01
+  rotate: true
+  xy: 201, 34
+  size: 30, 31
+  orig: 30, 34
+  offset: 0, 3
+  index: -1
+qi02
+  rotate: false
+  xy: 149, 4
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+qi03
+  rotate: false
+  xy: 176, 66
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+qi04
+  rotate: false
+  xy: 165, 30
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+shangyanpi
+  rotate: true
+  xy: 67, 3
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+shangyanpi01
+  rotate: true
+  xy: 132, 3
+  size: 20, 15
+  orig: 20, 16
+  offset: 0, 1
+  index: -1
+shangyanpi02
+  rotate: true
+  xy: 113, 3
+  size: 20, 17
+  orig: 21, 17
+  offset: 1, 0
+  index: -1
+shangyanpi03
+  rotate: false
+  xy: 2, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 25
+  size: 161, 82
+  orig: 161, 82
+  offset: 0, 0
+  index: -1
+tongkong01
+  rotate: false
+  xy: 213, 5
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+tongkong02
+  rotate: false
+  xy: 165, 100
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+tongkong03
+  rotate: false
+  xy: 165, 80
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 24, 2
+  size: 20, 21
+  orig: 25, 23
+  offset: 3, 1
+  index: -1

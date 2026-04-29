@@ -1,0 +1,146 @@
+
+FLAME_HAWKFISH.png
+size: 364,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: true
+  xy: 208, 37
+  size: 70, 61
+  orig: 70, 65
+  offset: 0, 4
+  index: -1
+heiyanqiu
+  rotate: false
+  xy: 343, 72
+  size: 6, 10
+  orig: 8, 12
+  offset: 1, 1
+  index: -1
+heiyanqiu_h
+  rotate: false
+  xy: 357, 243
+  size: 5, 9
+  orig: 7, 11
+  offset: 1, 1
+  index: -1
+shangqi
+  rotate: false
+  xy: 2, 8
+  size: 204, 99
+  orig: 204, 99
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 109
+  size: 305, 143
+  orig: 305, 143
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: true
+  xy: 271, 5
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: true
+  xy: 309, 77
+  size: 85, 32
+  orig: 85, 32
+  offset: 0, 0
+  index: -1
+yaanpi02_h
+  rotate: false
+  xy: 243, 2
+  size: 22, 33
+  orig: 24, 35
+  offset: 1, 1
+  index: -1
+yanbai
+  rotate: true
+  xy: 208, 4
+  size: 31, 33
+  orig: 33, 35
+  offset: 1, 1
+  index: -1
+yanbai_h
+  rotate: true
+  xy: 302, 8
+  size: 21, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 357, 237
+  size: 4, 3
+  orig: 6, 5
+  offset: 1, 1
+  index: -1
+yankuang
+  rotate: false
+  xy: 309, 200
+  size: 46, 52
+  orig: 51, 57
+  offset: 2, 1
+  index: -1
+yankuang_h
+  rotate: false
+  xy: 302, 31
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+yanpi
+  rotate: true
+  xy: 344, 166
+  size: 32, 18
+  orig: 39, 23
+  offset: 4, 4
+  index: -1
+yanpi01
+  rotate: false
+  xy: 271, 79
+  size: 33, 28
+  orig: 44, 34
+  offset: 4, 5
+  index: -1
+yanpi01_h
+  rotate: false
+  xy: 343, 137
+  size: 19, 25
+  orig: 21, 27
+  offset: 1, 1
+  index: -1
+yanpi02
+  rotate: false
+  xy: 309, 164
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+yanpi_h
+  rotate: true
+  xy: 343, 119
+  size: 16, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1
+ziyanqiu
+  rotate: false
+  xy: 343, 101
+  size: 12, 16
+  orig: 14, 18
+  offset: 1, 1
+  index: -1
+ziyanqiu_h
+  rotate: false
+  xy: 343, 84
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1

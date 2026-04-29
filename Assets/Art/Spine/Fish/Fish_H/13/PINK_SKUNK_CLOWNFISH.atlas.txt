@@ -1,0 +1,160 @@
+
+PINK_SKUNK_CLOWNFISH.png
+size: 364,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 266, 24
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+heiyanqiu
+  rotate: false
+  xy: 152, 74
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hg
+  rotate: false
+  xy: 250, 54
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+huabian
+  rotate: false
+  xy: 215, 3
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+huabian_yz
+  rotate: false
+  xy: 166, 2
+  size: 47, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+huangyanqiu
+  rotate: false
+  xy: 351, 101
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 8
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+pifeng_yz
+  rotate: false
+  xy: 152, 85
+  size: 106, 57
+  orig: 106, 57
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 260, 84
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 166, 52
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 74
+  size: 148, 68
+  orig: 148, 68
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 292, 22
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+tf_yz
+  rotate: true
+  xy: 351, 115
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+tuojin
+  rotate: false
+  xy: 110, 12
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: true
+  xy: 337, 34
+  size: 22, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 110, 2
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 301, 58
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 311, 28
+  size: 24, 28
+  orig: 25, 30
+  offset: 0, 1
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 2, 3
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 287, 2
+  size: 18, 12
+  orig: 25, 13
+  offset: 6, 1
+  index: -1
+yanpi0
+  rotate: false
+  xy: 311, 11
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 266, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1

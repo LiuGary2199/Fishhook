@@ -1,0 +1,55 @@
+
+crossbow.png
+size: 204,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wheel_1
+  rotate: false
+  xy: 99, 54
+  size: 68, 42
+  orig: 72, 46
+  offset: 2, 2
+  index: -1
+Wheel_2
+  rotate: false
+  xy: 148, 2
+  size: 21, 50
+  orig: 25, 54
+  offset: 2, 2
+  index: -1
+Wheel_3
+  rotate: false
+  xy: 148, 2
+  size: 21, 50
+  orig: 25, 54
+  offset: 2, 2
+  index: -1
+body_1
+  rotate: false
+  xy: 99, 98
+  size: 84, 186
+  orig: 88, 190
+  offset: 2, 2
+  index: -1
+body_2
+  rotate: false
+  xy: 99, 5
+  size: 47, 47
+  orig: 49, 49
+  offset: 1, 1
+  index: -1
+bow1
+  rotate: true
+  xy: 2, 8
+  size: 276, 95
+  orig: 281, 401
+  offset: 3, 195
+  index: -1
+bowstring
+  rotate: true
+  xy: 185, 38
+  size: 246, 16
+  orig: 246, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+SmallHand_a.png
+size: 336,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line_White 1
+  rotate: true
+  xy: 183, 2
+  size: 213, 98
+  orig: 256, 128
+  offset: 0, 15
+  index: -1
+eff_pubCir01
+  rotate: false
+  xy: 283, 164
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 2, 10
+  size: 205, 179
+  orig: 205, 189
+  offset: 0, 5
+  index: -1

@@ -1,0 +1,202 @@
+
+FOXFACE_RABBITFISH.png
+size: 364,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bx
+  rotate: true
+  xy: 130, 34
+  size: 41, 56
+  orig: 52, 67
+  offset: 4, 0
+  index: -1
+ceqi
+  rotate: true
+  xy: 130, 5
+  size: 27, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+ceqi_2
+  rotate: false
+  xy: 303, 31
+  size: 27, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+cs
+  rotate: true
+  xy: 70, 23
+  size: 52, 58
+  orig: 54, 61
+  offset: 2, 0
+  index: -1
+heiyanqiu
+  rotate: true
+  xy: 303, 69
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 290, 51
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+ld01
+  rotate: false
+  xy: 14, 3
+  size: 12, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+ld02
+  rotate: true
+  xy: 332, 13
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+lz01
+  rotate: false
+  xy: 163, 2
+  size: 20, 30
+  orig: 23, 31
+  offset: 1, 1
+  index: -1
+lz02
+  rotate: false
+  xy: 28, 4
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+paizi
+  rotate: false
+  xy: 92, 3
+  size: 20, 18
+  orig: 23, 21
+  offset: 1, 2
+  index: -1
+shangqi
+  rotate: false
+  xy: 188, 45
+  size: 100, 30
+  orig: 100, 30
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 77
+  size: 157, 64
+  orig: 157, 64
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 161, 77
+  size: 157, 64
+  orig: 157, 64
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 320, 64
+  size: 77, 42
+  orig: 77, 43
+  offset: 0, 1
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 188, 10
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 37, 7
+  size: 27, 4
+  orig: 27, 4
+  offset: 0, 0
+  index: -1
+xz
+  rotate: true
+  xy: 2, 13
+  size: 62, 66
+  orig: 62, 69
+  offset: 0, 3
+  index: -1
+yan
+  rotate: true
+  xy: 290, 31
+  size: 18, 11
+  orig: 23, 15
+  offset: 4, 4
+  index: -1
+yan01
+  rotate: true
+  xy: 114, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+yan01_2
+  rotate: true
+  xy: 311, 10
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+yan02
+  rotate: false
+  xy: 290, 11
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+yan02_2
+  rotate: false
+  xy: 70, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+yan_2
+  rotate: true
+  xy: 350, 17
+  size: 17, 11
+  orig: 24, 16
+  offset: 5, 5
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 37, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 332, 36
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+yankuang_2
+  rotate: false
+  xy: 264, 15
+  size: 24, 28
+  orig: 27, 30
+  offset: 1, 1
+  index: -1
+zongyanqiu
+  rotate: true
+  xy: 2, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1

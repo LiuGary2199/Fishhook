@@ -1,0 +1,167 @@
+
+Seahorse.png
+size: 3844, 640
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Seahorse_1
+  rotate: true
+  xy: 2095, 2
+  size: 247, 183
+  orig: 247, 183
+  offset: 0, 0
+  index: -1
+Seahorse_1_1
+  rotate: true
+  xy: 2280, 2
+  size: 247, 183
+  orig: 247, 183
+  offset: 0, 0
+  index: -1
+Seahorse_1_2
+  rotate: true
+  xy: 2465, 2
+  size: 247, 183
+  orig: 247, 183
+  offset: 0, 0
+  index: -1
+Seahorse_1_3
+  rotate: true
+  xy: 2650, 2
+  size: 247, 183
+  orig: 247, 183
+  offset: 0, 0
+  index: -1
+Seahorse_1_4
+  rotate: true
+  xy: 2835, 2
+  size: 247, 183
+  orig: 247, 183
+  offset: 0, 0
+  index: -1
+Seahorse_1_5
+  rotate: true
+  xy: 3020, 2
+  size: 247, 183
+  orig: 247, 183
+  offset: 0, 0
+  index: -1
+Seahorse_1_6
+  rotate: true
+  xy: 3205, 2
+  size: 247, 183
+  orig: 247, 183
+  offset: 0, 0
+  index: -1
+Seahorse_2
+  rotate: false
+  xy: 2, 6
+  size: 297, 632
+  orig: 297, 632
+  offset: 0, 0
+  index: -1
+Seahorse_2_1
+  rotate: false
+  xy: 301, 6
+  size: 297, 632
+  orig: 297, 632
+  offset: 0, 0
+  index: -1
+Seahorse_2_2
+  rotate: false
+  xy: 600, 6
+  size: 297, 632
+  orig: 297, 632
+  offset: 0, 0
+  index: -1
+Seahorse_2_3
+  rotate: false
+  xy: 899, 6
+  size: 297, 632
+  orig: 297, 632
+  offset: 0, 0
+  index: -1
+Seahorse_2_4
+  rotate: false
+  xy: 1198, 6
+  size: 297, 632
+  orig: 297, 632
+  offset: 0, 0
+  index: -1
+Seahorse_2_5
+  rotate: false
+  xy: 1497, 6
+  size: 297, 632
+  orig: 297, 632
+  offset: 0, 0
+  index: -1
+Seahorse_2_6
+  rotate: false
+  xy: 1796, 6
+  size: 297, 632
+  orig: 297, 632
+  offset: 0, 0
+  index: -1
+Seahorse_3
+  rotate: false
+  xy: 2095, 251
+  size: 270, 387
+  orig: 284, 401
+  offset: 14, 14
+  index: -1
+Seahorse_3_1
+  rotate: false
+  xy: 2367, 251
+  size: 270, 387
+  orig: 284, 401
+  offset: 14, 14
+  index: -1
+Seahorse_3_2
+  rotate: false
+  xy: 2639, 251
+  size: 270, 387
+  orig: 284, 401
+  offset: 14, 14
+  index: -1
+Seahorse_3_3
+  rotate: false
+  xy: 2911, 251
+  size: 270, 387
+  orig: 284, 401
+  offset: 14, 14
+  index: -1
+Seahorse_3_4
+  rotate: false
+  xy: 3183, 251
+  size: 270, 387
+  orig: 284, 401
+  offset: 14, 14
+  index: -1
+Seahorse_3_5
+  rotate: true
+  xy: 3455, 368
+  size: 270, 387
+  orig: 284, 401
+  offset: 14, 14
+  index: -1
+Seahorse_3_6
+  rotate: true
+  xy: 3455, 96
+  size: 270, 387
+  orig: 284, 401
+  offset: 14, 14
+  index: -1
+Seahorse_eye
+  rotate: true
+  xy: 3390, 26
+  size: 98, 53
+  orig: 130, 73
+  offset: 23, 11
+  index: -1
+Seahorse_eye1
+  rotate: true
+  xy: 3390, 126
+  size: 123, 62
+  orig: 130, 73
+  offset: 3, 9
+  index: -1

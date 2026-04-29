@@ -1,0 +1,107 @@
+{
+  "ConfigInfo": [
+    {
+      "Key": "本配置文件说明"
+    },
+    {
+      "Key": "MoteWould",
+      "Value": "UIPanel\\MoteWould"
+    },
+    {
+      "Key": "GamePanel",
+      "Value": "UIPanel\\GamePanel"
+    },
+    {
+      "Key": "CentralWould",
+      "Value": "UIPanel\\CentralWould"
+    },
+    {
+      "Key": "Briny",
+      "Value": "UIPanel\\Common\\Briny"
+    },
+    {
+      "Key": "MermaidMisery",
+      "Value": "UIPanel\\Common\\MermaidMisery"
+    },
+    {
+      "Key": "LevelCompletePanel",
+      "Value": "UIPanel\\LevelCompletePanel"
+    },
+    {
+      "Key": "TrapUsWould",
+      "Value": "UIPanel\\TrapUsWould"
+    },
+    {
+      "Key": "DailyGiftPanel",
+      "Value": "UIPanel\\DailyGift\\DailyGiftPanel"
+    },
+    {
+      "Key": "RemoveAdPanel",
+      "Value": "UIPanel\\RemoveAd\\RemoveAdPanel"
+    },
+    {
+      "Key": "EndlessTreasurePanel",
+      "Value": "UIPanel\\EndlessTreasure\\EndlessTreasurePanel"
+    },
+    {
+      "Key": "RankStarPanel",
+      "Value": "UIPanel\\RankStar\\RankStarPanel"
+    },
+    {
+      "Key": "EarFootCruelWould",
+      "Value": "UIPanel\\EarFootCruelWould"
+    },
+    {
+        "Key": "CashOutPanel",
+        "Value": "UIPanel\\CashOutPanel"
+    },
+    {
+      "Key": "DrapeWould",
+      "Value": "UIPanel\\DrapeWould"
+    },
+    {
+      "Key": "JT_CashOutPanel",
+      "Value": "UIPanel\\JT_CashOutPanel"
+    },
+    {
+      "Key": "PermGripeAtWould",
+      "Value": "UIPanel\\PermGripeAtWould"
+    },
+    {
+      "Key": "ConcertBowl",
+      "Value": "UIPanel\\ConcertBowl"
+    },
+    {
+      "Key": "BudJayWould",
+      "Value": "UIPanel\\BudJayWould"
+    },
+    {
+      "Key": "EmitWould",
+      "Value": "UIPanel\\EmitWould"
+    },
+    {
+      "Key": "LessonWould",
+      "Value": "UIPanel\\LessonWould"
+    },
+    {
+      "Key": "ScrubSlumWould",
+      "Value": "UIPanel\\ScrubSlumWould"
+    },
+    {
+      "Key": "FoldItWould",
+      "Value": "UIPanel\\FoldItWould"
+    },
+    {
+      "Key": "LoveWould",
+      "Value": "UIPanel\\LoveWould"
+    },
+    {
+      "Key": "RenunciationOfRimWould",
+      "Value": "UIPanel\\RenunciationOfRimWould"
+    },
+    {
+      "Key": "CruelWould",
+      "Value": "UIPanel\\CruelWould"
+    }
+  ]
+}

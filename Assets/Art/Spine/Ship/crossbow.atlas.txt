@@ -1,0 +1,27 @@
+
+crossbow.png
+size: 456,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: true
+  xy: 288, 312
+  size: 233, 166
+  orig: 233, 166
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 2, 2
+  size: 543, 284
+  orig: 583, 284
+  offset: 40, 0
+  index: -1
+flag
+  rotate: false
+  xy: 288, 158
+  size: 158, 152
+  orig: 184, 248
+  offset: 25, 37
+  index: -1

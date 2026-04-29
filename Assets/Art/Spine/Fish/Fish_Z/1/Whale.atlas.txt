@@ -1,0 +1,62 @@
+
+Whale.png
+size: 3368, 472
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Whale_1
+  rotate: false
+  xy: 2, 2
+  size: 1009, 468
+  orig: 1009, 469
+  offset: 0, 1
+  index: -1
+Whale_1_1
+  rotate: false
+  xy: 1013, 2
+  size: 1009, 468
+  orig: 1009, 469
+  offset: 0, 1
+  index: -1
+Whale_1_2
+  rotate: false
+  xy: 2024, 2
+  size: 1009, 468
+  orig: 1009, 469
+  offset: 0, 1
+  index: -1
+Whale_2
+  rotate: false
+  xy: 3035, 331
+  size: 312, 139
+  orig: 312, 140
+  offset: 0, 1
+  index: -1
+Whale_2_1
+  rotate: true
+  xy: 3035, 17
+  size: 312, 139
+  orig: 312, 140
+  offset: 0, 1
+  index: -1
+Whale_2_2
+  rotate: true
+  xy: 3176, 17
+  size: 312, 139
+  orig: 312, 140
+  offset: 0, 1
+  index: -1
+Whale_eye
+  rotate: false
+  xy: 3317, 229
+  size: 41, 41
+  orig: 61, 53
+  offset: 7, 8
+  index: -1
+Whale_eye1
+  rotate: true
+  xy: 3317, 272
+  size: 57, 48
+  orig: 61, 53
+  offset: 2, 4
+  index: -1

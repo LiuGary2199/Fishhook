@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 576,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6027_xiangsu_battle_ef_tex_015
+  rotate: false
+  xy: 2, 6
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+a1
+  rotate: true
+  xy: 420, 76
+  size: 50, 109
+  orig: 54, 112
+  offset: 2, 2
+  index: -1
+a2
+  rotate: false
+  xy: 420, 24
+  size: 109, 50
+  orig: 112, 54
+  offset: 2, 2
+  index: -1
+a3
+  rotate: true
+  xy: 272, 3
+  size: 50, 109
+  orig: 54, 112
+  offset: 2, 1
+  index: -1
+a4
+  rotate: false
+  xy: 124, 2
+  size: 109, 50
+  orig: 112, 54
+  offset: 1, 2
+  index: -1
+b1
+  rotate: false
+  xy: 2, 128
+  size: 141, 141
+  orig: 143, 143
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 145, 128
+  size: 141, 141
+  orig: 143, 143
+  offset: 1, 1
+  index: -1
+b3
+  rotate: false
+  xy: 288, 128
+  size: 141, 141
+  orig: 143, 143
+  offset: 1, 1
+  index: -1
+b4
+  rotate: false
+  xy: 431, 128
+  size: 141, 141
+  orig: 143, 143
+  offset: 1, 1
+  index: -1
+c1
+  rotate: false
+  xy: 124, 54
+  size: 72, 72
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 198, 54
+  size: 72, 72
+  orig: 75, 74
+  offset: 2, 1
+  index: -1
+c3
+  rotate: true
+  xy: 272, 55
+  size: 71, 72
+  orig: 75, 75
+  offset: 2, 2
+  index: -1
+c4
+  rotate: true
+  xy: 346, 55
+  size: 71, 72
+  orig: 74, 75
+  offset: 2, 2
+  index: -1
+d1
+  rotate: false
+  xy: 531, 102
+  size: 24, 24
+  orig: 28, 28
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,244 @@
+
+BELLUS_ANGELFISH.png
+size: 540,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 481, 82
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+ceqi_2
+  rotate: true
+  xy: 372, 3
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+h_pf_01
+  rotate: true
+  xy: 322, 2
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+h_pf_02
+  rotate: false
+  xy: 409, 32
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+heiyanqiu
+  rotate: true
+  xy: 464, 52
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+heiyanqiu_2
+  rotate: false
+  xy: 532, 62
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+huxu
+  rotate: true
+  xy: 464, 32
+  size: 18, 7
+  orig: 18, 8
+  offset: 0, 1
+  index: -1
+lanyanqiu
+  rotate: true
+  xy: 479, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+lanyanqiu_2
+  rotate: true
+  xy: 493, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 298, 83
+  size: 107, 59
+  orig: 107, 63
+  offset: 0, 4
+  index: -1
+q_pf
+  rotate: false
+  xy: 193, 54
+  size: 103, 88
+  orig: 106, 88
+  offset: 3, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 407, 86
+  size: 72, 30
+  orig: 73, 32
+  offset: 1, 2
+  index: -1
+shangqi
+  rotate: false
+  xy: 298, 57
+  size: 104, 24
+  orig: 104, 24
+  offset: 0, 0
+  index: -1
+shangqi_2
+  rotate: false
+  xy: 407, 118
+  size: 104, 24
+  orig: 104, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 188, 68
+  orig: 188, 68
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 2, 72
+  size: 189, 70
+  orig: 189, 70
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 407, 71
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+xiaqi01_2
+  rotate: false
+  xy: 409, 56
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: true
+  xy: 513, 71
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+xiaqi02_2
+  rotate: false
+  xy: 345, 30
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+yabpi4
+  rotate: false
+  xy: 440, 32
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yabpi4_2
+  rotate: false
+  xy: 458, 60
+  size: 21, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 481, 57
+  size: 24, 23
+  orig: 29, 26
+  offset: 3, 1
+  index: -1
+yanbai_2
+  rotate: true
+  xy: 345, 2
+  size: 26, 25
+  orig: 28, 29
+  offset: 1, 2
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 459, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+yangaoguang_2
+  rotate: true
+  xy: 459, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 409, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+yankuang_2
+  rotate: false
+  xy: 434, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 473, 38
+  size: 22, 17
+  orig: 22, 18
+  offset: 0, 1
+  index: -1
+yanpi2_2
+  rotate: true
+  xy: 479, 14
+  size: 22, 17
+  orig: 22, 18
+  offset: 0, 1
+  index: -1
+yanpi3
+  rotate: false
+  xy: 507, 52
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+yanpi3_2
+  rotate: true
+  xy: 459, 7
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+yanzhao
+  rotate: false
+  xy: 192, 9
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 272, 7
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
