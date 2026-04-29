@@ -122,6 +122,81 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &171946770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 171946771}
+  - component: {fileID: 171946773}
+  - component: {fileID: 171946772}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &171946771
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171946770}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4877028737417940370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -738.62}
+  m_SizeDelta: {x: 1117, y: 893}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &171946772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171946770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: b67c9458a10e4844ca91b09c3bc89f0d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &171946773
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171946770}
+  m_CullTransparentMesh: 1
 --- !u!114 &519414562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -478,7 +553,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &889719878
 RectTransform:
   m_ObjectHideFlags: 0
@@ -596,9 +671,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d06b872a66b4b4428f5409c531afb07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MAX_SDK_KEY: VFm56X9rVZwjoaaea1g5hRGAMGatlybe1nU2xiPrMN38LNzym8GNRM9Kkvl9qftxp2oh4R69QifVXCxWK16CZ6FYi6VH5zBu5Kq/3vm/dsI9UudZONEYKQ==
-  MAX_REWARD_ID: 4b25990c6ed4a860
-  MAX_INTER_ID: 5cb0dfce98179d12
+  MAX_SDK_KEY: GBdf973fTrxTF9CI0B/1DgiXNYHfP0THnO6zi7MYSoPu5GleF86t7iz2ZL5YuxuhbXzNJRu1cThpqiQ0HDPx0K4U5Sokmdg+z1z/XWKx5JeUVzZTlM1gAw==
+  MAX_REWARD_ID: bfea476f5f70c908
+  MAX_INTER_ID: b9f5fc262747d7ba
   ToLean: 0
 --- !u!114 &1378984546
 MonoBehaviour:
@@ -781,7 +856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c0efdb6e4bd26f40ac6f762a55caffb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  appid: 6747810594
+  appid: 6764503384
 --- !u!114 &1553512516
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -794,7 +869,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d0e8758969bcb849995bb5f40580cd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScriptID: y1uaf8blw4xs
+  ScriptID: p7w44qa0tips
 --- !u!114 &1553520073
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -807,11 +882,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3937b46ee9a9b5459f133b111e132c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ShedPeg: http://wanfun.top
-  ShedImplyPeg: http://wanfun.top/api/client/user/getId?gameCode=
-  ShedMilletPeg: http://wanfun.top/api/client/config?gameCode=
-  ShedDutyPeg: http://wanfun.top/api/client/common/current_timestamp?gameCode=
-  ShedArousePeg: http://wanfun.top/api/client/user/setAdjustId?gameCode=
+  ShedPeg: http://fishstrike.top
+  ShedImplyPeg: http://fishstrike.top/api/client/user/getId?gameCode=
+  ShedMilletPeg: http://fishstrike.top/api/client/config?gameCode=
+  ShedDutyPeg: http://fishstrike.top/api/client/common/current_timestamp?gameCode=
+  ShedArousePeg: http://fishstrike.top/api/client/user/setAdjustId?gameCode=
   ClanCode: 21388
   Lifeway: GooglePlay
   Endless: 
@@ -883,7 +958,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _LoginPlatform: 1
   AppInfo: 136
-  BaseUrl: http://us.wanfun.top
+  BaseUrl: http://us.fishstrike.top
   Account: 
   Data:
     UserID: 
@@ -1194,7 +1269,7 @@ MonoBehaviour:
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
   m_PresetInfoIsWorld: 0
---- !u!1 &1754770406
+--- !u!1 &2066510044
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1202,8 +1277,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1754770408}
-  - component: {fileID: 1754770407}
+  - component: {fileID: 2066510046}
+  - component: {fileID: 2066510045}
   m_Layer: 0
   m_Name: Adjust
   m_TagString: Untagged
@@ -1211,13 +1286,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1754770407
+--- !u!114 &2066510045
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1754770406}
+  m_GameObject: {fileID: 2066510044}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 55687d4a652a7cb46bbd1375443f20e1, type: 3}
@@ -1227,16 +1302,16 @@ MonoBehaviour:
   eventBuffering: 0
   sendInBackground: 0
   launchDeferredDeeplink: 1
-  appToken: y1uaf8blw4xs
+  appToken: p7w44qa0tips
   logLevel: 1
   environment: 1
---- !u!4 &1754770408
+--- !u!4 &2066510046
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1754770406}
+  m_GameObject: {fileID: 2066510044}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -1426,6 +1501,7 @@ RectTransform:
   - {fileID: 129628180733599188}
   - {fileID: 6018371686327419676}
   - {fileID: 3348868906910789608}
+  - {fileID: 171946771}
   m_Father: {fileID: 4950862984951594884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1715,4 +1791,4 @@ SceneRoots:
   - {fileID: 1727219561}
   - {fileID: 524405653}
   - {fileID: 1500163626}
-  - {fileID: 1754770408}
+  - {fileID: 2066510046}
