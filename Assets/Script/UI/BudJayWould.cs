@@ -129,6 +129,7 @@ public class BudJayWould : ShedUIHobby
     {
         m_TrickAD="0"; 
         GraceOffBlood();
+        ADAwesome.Fletcher.OxCrunchDewTruck();
     }
 
     private void OnAdClaimClicked()
