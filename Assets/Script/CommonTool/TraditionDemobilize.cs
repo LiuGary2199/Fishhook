@@ -568,9 +568,14 @@ public class TraditionDemobilize : MonoBehaviour
                 {
                     finish?.Invoke();
                     if (kind == FishFlyPoolKind.Cash)
+                    {
                         ChileElk.AgeFletcher()?.WifeMisery(ChileSick.UIMusic.Sound_GoldCoin1);
+                    }
                     else
+                    {
                         ChileElk.AgeFletcher()?.WifeMisery(ChileSick.UIMusic.Sound_GoldCoin);
+                    }
+                        ChileElk.AgeFletcher().WifeMexican(Lofelt.NiceVibrations.HapticPatterns.PresetType.LightImpact);
                 }
             });
 

@@ -1,4 +1,4 @@
-﻿using TMPro;
+using TMPro;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
@@ -103,6 +103,7 @@ public class MotePermGripeHurt : MonoBehaviour
         {
             PermLvWelt.text = "Lv." + Mathf.Max(1, level);
         }
+        AIGamePlusManager.AgeFletcher().SendLevelChanged(level);
 
         // needExp 可能在服务器配置尚未初始化时为 0：
         // 这里不要显示“满进度”，而是显示 0% 等待配置到位后再刷新。

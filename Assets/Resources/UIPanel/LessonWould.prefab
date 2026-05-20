@@ -545,22 +545,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c95f2b857ee20746aa0846171e1057e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _CurrentUIType:
-    IsClearReverseChange: 0
+  _ReliantUISick:
+    AxMaizeRadiateBorder: 0
     UIForms_Type: 2
     UIForm_ShowMode: 0
     UIForm_LucencyType: 1
     UIForm_animationType: 1
-  close_button: {fileID: 0}
-  Gold: {fileID: 2148998318618855120}
-  GoldText: {fileID: 3944931681163275811}
-  Cash: {fileID: 9172850339631766356}
-  CashText: {fileID: 5006214360527489595}
-  AdGetBtn: {fileID: 8093678859570587499}
-  GetBtn: {fileID: 3707366428268584392}
-  RewardShowList: []
-  m_ShipSkeleton: {fileID: 7284453988808669714}
-  rewaobj: {fileID: 6185900973253524476}
+  Laser_Window: {fileID: 0}
+  Talk: {fileID: 2148998318618855120}
+  TalkWelt: {fileID: 3944931681163275811}
+  Seed: {fileID: 9172850339631766356}
+  SeedWelt: {fileID: 5006214360527489595}
+  OfAgeLad: {fileID: 8093678859570587499}
+  AgeLad: {fileID: 3707366428268584392}
+  LessonDalePloy: []
+  m_PermAllusion: {fileID: 7284453988808669714}
+  Primary: {fileID: 6185900973253524476}
 --- !u!1 &4502911618325702128
 GameObject:
   m_ObjectHideFlags: 0
@@ -10433,7 +10433,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: GET MORE
+  m_Text: GET X2
 --- !u!114 &1587892891491555360
 MonoBehaviour:
   m_ObjectHideFlags: 0

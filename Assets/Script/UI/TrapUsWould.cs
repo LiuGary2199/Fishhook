@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -50,6 +50,8 @@ public class TrapUsWould : ShedUIHobby
             StartCoroutine(LaserWould());
         }
         
+        PlayerPrefs.SetInt("da2prx",1);
+        AIGamePlusManager.AgeFletcher().SendEvent("da2prx");
         // 打点
         //QuitCacheCandle.GetInstance().SendEvent("1210", (index + 1).ToString());
     }

@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
@@ -49,6 +49,14 @@ public class ZJT_Manager : TireStability<ZJT_Manager>
     {
 #if ZT
         CashOutManager.AgeFletcher().AddMoney(money);
+        if (PlayerPrefs.GetInt("2cgw82") == 0)
+        {
+            if (GetMoney() > 100)
+            {
+                AIGamePlusManager.AgeFletcher().SendEvent("2cgw82");
+                PlayerPrefs.SetInt("2cgw82", 1);
+            }
+        }
 #endif
 
 #if JT

@@ -99,6 +99,10 @@ public class MoteWould : ShedUIHobby
         {
             m_SeedVigor.gameObject.SetActive(false);
         }
+        else
+        {
+            AIGamePlusManager.AgeFletcher().SendEvent("8emkyx");
+        }
 
         m_CentralLad.onClick.AddListener(() =>
         {

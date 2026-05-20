@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -25,7 +25,21 @@ public class ThaiAwesome : MonoBehaviour
             SpotGushAwesome.SetBool(CMillet.If_AxEarSailor, false);
         }
 
+
         ChileElk.AgeFletcher().WifeNo(ChileSick.SceneMusic.Sound_BGM);
+        if (PlayerPrefs.GetInt("da2prx") > 0)
+        {
+            AIGamePlusManager.AgeFletcher().SendEvent("da2prx");
+        }
+        if (PlayerPrefs.GetInt("2cgw82") > 0)
+        {
+            AIGamePlusManager.AgeFletcher().SendEvent("2cgw82");
+        }
+        if (PlayerPrefs.GetInt("7sfuth") > 0)
+        {
+            AIGamePlusManager.AgeFletcher().SendEvent("7sfuth");
+        }
+
 
         UIAwesome.AgeFletcher().DaleUIHobby(nameof(MoteWould));
         QuitCacheCandle.AgeFletcher().HornCache("1001");

@@ -327,6 +327,7 @@ public class ClanGushAwesome : TireStability<ClanGushAwesome>
     /// <param name="refreshHomeGoldText">为 false 时不立刻改首页金币数字（由飞币动画结束后再滚字），避免动画未播完 UI 已跳到最终值。</param>
     public void WaxSeed(double gold, Transform startTransform, bool refreshHomeGoldText)
     {
+     
         double oldGold = SpotGushAwesome.GetDouble(CMillet.If_SeedVice);
         SpotGushAwesome.SetDouble(CMillet.If_SeedVice, oldGold + gold);
         if (gold > 0)
@@ -345,6 +346,15 @@ public class ClanGushAwesome : TireStability<ClanGushAwesome>
         if (refreshHomeGoldText && MoteWould.Instance != null)
         {
             MoteWould.Instance.ReclaimTalkWelt();
+        }
+
+        if (PlayerPrefs.GetInt("7sfuth") == 0)
+        {
+            if (SpotGushAwesome.GetDouble(CMillet.If_LegitimateTalkVice) > 10)
+            {
+                AIGamePlusManager.AgeFletcher().SendEvent("7sfuth");
+                PlayerPrefs.SetInt("7sfuth", 1);
+            }
         }
     }
 

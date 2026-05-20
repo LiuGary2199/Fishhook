@@ -1,4 +1,4 @@
-﻿using TMPro;
+using TMPro;
 using UnityEngine;
 
 [DisallowMultipleComponent]
@@ -172,6 +172,7 @@ public class MoteSexSpeech : MonoBehaviour
             Instantiate(m_ValidOn, transform.position, Quaternion.identity, transform.parent);
         }
         ChileElk.AgeFletcher().WifeMisery(ChileSick.UIMusic.popbom);
+        ChileElk.AgeFletcher().WifeMexican(Lofelt.NiceVibrations.HapticPatterns.PresetType.MediumImpact);
         m_Demobilize?.TopsoilLikeFad(this, m_LessonSick, m_LessonTruck);
     }
 
